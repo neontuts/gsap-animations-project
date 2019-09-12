@@ -1,0 +1,16 @@
+{
+  "name": "gsap-tweenmax-project",
+  "version": "1.0.0",
+  "description": "SVG to GSAP Animation",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "Neon Tuts",
+  "license": "ISC",
+  "homepage": "https://neontuts.github.io/gsap-animations-project",
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
